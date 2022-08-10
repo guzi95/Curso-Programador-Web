@@ -1,0 +1,213 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: "Century Gothic";
+}
+
+#cabecalho{
+	width: 100%;
+	height: 110px;
+	background-color: #8B4CA9;
+	text-align: center;
+}
+
+#cabecalho img{
+	width: 400px;
+	margin-top: 10px;
+}
+
+#corpo{
+	width: 100%;
+	background-color: #E1D2E9;
+}
+
+#conteudo{
+	width: 80%;
+	margin: 0 auto;
+	padding-top: 20px;
+	background-color: white;
+}
+
+#conteudo .texto1{
+	width: 80%;
+	font-size: 20px;
+	text-align: justify;
+	margin: 0 auto;
+}
+
+#conteudo .texto2{
+	width: 80%;
+	font-size: 18px;
+	text-align: justify;
+	margin: 0 auto;
+}
+
+#conteudo ul{
+	width: 100%;
+	text-align: center;
+}
+
+#conteudo ul li{
+	font-family: "Century Schoolbook";
+	color: #209D85;
+	list-style: none;
+	font-size: 25px;
+	font-style: italic;
+	margin-bottom: 5px;
+}
+
+#conteudo img{
+	width: 100%;
+}
+
+#area-login{
+	width:300px;
+	height:200px;
+	background-color:#E1544C;
+	color:white;
+	border-radius: 10px;
+	position: absolute;
+	right:80px;
+	top:100px;
+	padding-top: 10px;
+}
+
+#area-login table{
+	width:90%;
+	height:90%;
+}
+
+#area-login table td{
+	background-color: #E1544C;
+	padding-top: 10px;
+}
+
+#area-login input[type="text"], input[type="password"]{
+	width:180px;
+	height:10px;
+}
+
+#rodape{
+	width: 100%;
+	height: 110px;
+	text-align: center;
+	color: white;
+	border-top: 5px solid #209D85;
+	background-color: #8B4CA9;
+}
+
+#rodape img{
+	width: 200px;
+	margin-top: 20px;
+}
+
+.espaco{
+	width: 100%;
+	height: 50px;
+}
+
+.produtos{
+	width: 160px;
+	height: 180px;
+	background-color:#DA3A48;
+	display: inline-block;
+	margin: 0px 25px 15px 25px;
+	border: 4px solid #DA3A48;
+	background-color: #DA3A48;
+}
+
+.nome-produto{
+	color: white;
+	font-weight: bold;
+	text-align: center;
+}
+
+.info{
+	width: 100px;
+	height: 50px;
+	color: #4B4B4D;
+	font-weight: bold;
+}
+
+.line-gray{
+	background-color: #E6E7E8;
+}
+
+.centralizar{
+	text-align: center;
+}
+
+.texto-centro{
+	width: 100%;
+	font-weight: bold;
+	text-align: center;
+}
+
+tr{
+	background-color: #D2D3D5;
+}
+
+td{
+	width: 350px;
+}
+
+table{
+	margin: 0 auto;
+	border-spacing: 0;
+}
+
+td input[type="text"], input[type="email"], select, textarea{
+	width: 90%;
+}
+
+td input[type="text"],input[type="email"], select{
+	height: 30px;
+}
+
+td input[type="button"]{
+	width: 90%;
+	height: 40px;
+	color: white;
+	border: none;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background-color: #32AB62;
+}
+
+td input[type="button"]:hover{
+	background-color: #58BB80;
+}
+
+nav{
+	width: 100%;
+	height: 30px;
+	border-top: 5px solid #209D85;
+	background-color: #A36DBB;
+	text-align: center;
+}
+
+nav a{
+	text-decoration: none;
+	color: white;
+	margin-left: 20px;
+	font-weight: bold;
+}
+nav a:hover{
+	color: #F2B4B2;
+}
+
+#btn-logar{
+	width: 100px;
+	height: 40px;
+	color: white;
+	background-color: #E1544C;
+	border: 0;
+	border-radius: 5px;
+	position: absolute;
+	right: 180px;
+	top: 50px;
+}
+
+#btn-logar:hover{
+	background-color: #E9827C;
+}
