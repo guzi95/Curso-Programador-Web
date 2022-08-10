@@ -16,4 +16,4 @@ Abaixo, seguem os links para acesso de cada um dos sites. As aplicações deles 
 
 - King Lanches: [kinglanches.netlify.app](https://kinglanches.netlify.app/)
 - Geofísica Divertida: [geofisicadivertida.netlify.app](https://geofisicadivertida.netlify.app/)
-- Calculadora Reprograma: [calculadorajuliana2.netlify.app](https://calculadorajuliana2.netlify.app/)
+- Calculadora Freenlancer: [calculadorajuliana2.netlify.app](https://calculadorajuliana2.netlify.app/)
